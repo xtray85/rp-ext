@@ -8,6 +8,6 @@
     "help_url": "https://github.com/pocopico/rp-ext/early-telnet"
   },
   "releases": {
-    "ds3617xs_42218": "https://raw.githubusercontent.com/xtray85/rp-ext/main/early-telnet/recipes/universal.json"
+    "ds3617xs_42218": "https://raw.githubusercontent.com/xtray85/rp-ext/main/early-telnet/recipes/ds3617xs_42218.json"
   }
 }
