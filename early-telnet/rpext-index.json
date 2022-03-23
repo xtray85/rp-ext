@@ -1,6 +1,6 @@
 {
   "id": "pocopico.early-telnet-custom",
-  "url": "https://github.com/pocopico/rp-ext/raw/main/early-telnet/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/xtray85/rp-ext/main/early-telnet/rpext-index.json",
   "info": {
     "name": "Early telnet start Custom",
     "description": "for ds3617xs",
